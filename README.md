@@ -20,3 +20,5 @@ In order to implement micro services architecture on ECS there are number of thi
 14. Deployment Strategy
 15. Circuit Breaker pattern
 16. Authentication & Authorization
+17. Networking modes
+18. Node and container security
